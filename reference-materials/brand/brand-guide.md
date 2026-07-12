@@ -15,11 +15,21 @@ accessible palette until approved brand values are supplied:
 
 ## Style
 
-The brand should feel elegant, warm, artistic, welcoming, energetic, and
-professional.
+The brand should feel:
 
-Avoid childish clip art, overly corporate layouts, excessive animation, and
-neon colors unless they are part of approved brand materials.
+- Elegant
+- Warm
+- Artistic
+- Welcoming
+- Energetic
+- Professional
+
+Avoid:
+
+- Childish clip art
+- Overly corporate layouts
+- Excessive animation
+- Neon colors unless already part of the brand
 
 ## Fonts
 
@@ -28,4 +38,5 @@ neon colors unless they are part of approved brand materials.
 - V1 fallback heading font: Georgia
 - V1 fallback body font: Arial
 
-Do not add generated placeholder logos or photos.
+Use accessible web-font alternatives with a similar elegant and readable feel
+once approved brand fonts are known.

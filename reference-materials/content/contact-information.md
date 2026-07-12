@@ -1,12 +1,13 @@
 # Contact Information
 
-Use this file to collect public contact details for the website.
+Source status: current public website, pending final verification.
 
-## To Add
+- Email: `dancespeaksacademy@gmail.com`
+- Phone: `919-791-7450`
+- Contact page address: `2615 Lemon Grove Ave., Lemon Grove, CA 91945`
+- Footer address: `2613-15 Lemon Grove Ave., Lemon Grove, CA 91945`
+- Facebook: https://www.facebook.com/dancespeaksacademy
+- Instagram: https://www.instagram.com/dancespeaksacademy
 
-- Email address
-- Phone number
-- Studio address or service area
-- Social media links
-- Contact form requirements
-- Preferred call-to-action wording
+The v1 website displays the contact-page address and marks the address conflict
+for verification.

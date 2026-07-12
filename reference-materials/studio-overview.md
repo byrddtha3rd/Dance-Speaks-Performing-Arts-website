@@ -1,4 +1,4 @@
-# Studio Information
+# Studio Overview
 
 ## Name
 

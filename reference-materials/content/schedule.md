@@ -1,11 +1,14 @@
-# Schedule
+# Current Schedule
 
-Use this file to collect schedule information for the website.
+Last verified: July 2026
 
-## To Add
+| Day | Time | Class | Ages | Instructor | Studio |
+|---|---|---|---|---|---|
+| Monday | 4:30 PM | Beginning Ballet | 5-7 | Jane Smith | Studio A |
+| Tuesday | 6:00 PM | Teen Contemporary | 13-17 | John Smith | Studio A |
 
-- Weekly class schedule
-- Session dates
-- Registration deadlines
-- Recital or performance dates
-- Holiday closures
+## Notes
+
+The current public website schedule page does not expose a complete structured
+schedule in the crawled page text. This file remains the primary schedule source
+until updated.

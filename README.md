@@ -1,14 +1,28 @@
 # Dance Speaks Performing Arts Website
 
-This repository will hold the future website for Dance Speaks Performing Arts.
-
-## Repository Structure
-
-- `reference-materials/` stores planning material, brand notes, content drafts, photos, and existing-site notes.
-- `public/` is reserved for static website assets once development begins.
-- `src/` is reserved for website source code once a framework or build approach is chosen.
-- `AGENTS.md` gives future Codex sessions context for working in this project.
+This repository contains the Phase 1 public website for Dance Speaks Performing
+Arts Academy.
 
 ## Current Status
 
-This repo is currently organized for collecting materials and planning the site. Website implementation has not started yet.
+V1 is a static Next.js website with repository-backed content and clearly marked
+placeholders for missing approved facts, assets, tuition, and biographies.
+
+## Development
+
+```bash
+pnpm install
+pnpm build
+pnpm dev
+```
+
+## Source Materials
+
+- `reference-materials/` stores planning material, brand notes, content drafts,
+  photos, and existing-site notes.
+- `src/content/siteContent.ts` stores the v1 site content used by the public
+  page.
+- `public/` is reserved for approved static website assets.
+
+Do not add generated placeholder logos or photos. Only copy approved assets into
+`public/` after they exist in `reference-materials`.

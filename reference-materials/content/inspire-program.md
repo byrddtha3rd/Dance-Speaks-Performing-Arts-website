@@ -1,11 +1,10 @@
 # Inspire Program
 
-Use this file to collect information about the Inspire program.
+Source status: current website reference pending repository approval.
 
-## To Add
+The current public website references community access, diversity in dance, and
+support for performing arts education. Final Inspire program details should be
+added here before the public website presents specific program claims.
 
-- Program overview
-- Who the program serves
-- Goals and outcomes
-- Schedule or enrollment details
-- Testimonials or impact notes
+Do not invent eligibility, scholarship, tuition, schedule, impact, or donation
+details.
